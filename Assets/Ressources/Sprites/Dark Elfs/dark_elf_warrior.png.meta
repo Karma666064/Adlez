@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: ac7f4949abde8d640940a94ea13043dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6509144429065957594
+    second: dark_elf_warrior_0
+  - first:
+      213: -4520330966108304789
+    second: dark_elf_warrior_1
+  - first:
+      213: -2487841899700701360
+    second: dark_elf_warrior_2
+  - first:
+      213: -4196159737982935920
+    second: dark_elf_warrior_3
+  - first:
+      213: 2577094335373353643
+    second: dark_elf_warrior_4
+  - first:
+      213: 6910745262993654835
+    second: dark_elf_warrior_5
+  - first:
+      213: 2375115853494489702
+    second: dark_elf_warrior_6
+  - first:
+      213: 2963268617510940947
+    second: dark_elf_warrior_7
+  - first:
+      213: -6549143378719611287
+    second: dark_elf_warrior_8
+  - first:
+      213: 7494984176487621058
+    second: dark_elf_warrior_9
+  - first:
+      213: -15253937727520789
+    second: dark_elf_warrior_10
+  - first:
+      213: 444113801553165186
+    second: dark_elf_warrior_11
+  - first:
+      213: -5079395498253130485
+    second: dark_elf_warrior_12
+  - first:
+      213: 2416288299463677071
+    second: dark_elf_warrior_13
+  - first:
+      213: -8182096683214229570
+    second: dark_elf_warrior_14
+  - first:
+      213: 4182334864755756521
+    second: dark_elf_warrior_15
+  - first:
+      213: -7873338465987482596
+    second: dark_elf_warrior_16
+  - first:
+      213: -5284216453664003691
+    second: dark_elf_warrior_17
+  - first:
+      213: 6670734902367992303
+    second: dark_elf_warrior_18
+  - first:
+      213: -2718114979843049969
+    second: dark_elf_warrior_19
+  - first:
+      213: 4205283748163084831
+    second: dark_elf_warrior_20
+  - first:
+      213: -3160052871634371093
+    second: dark_elf_warrior_21
+  - first:
+      213: 6264830324108761964
+    second: dark_elf_warrior_22
+  - first:
+      213: 5778440925975916483
+    second: dark_elf_warrior_23
+  - first:
+      213: -1023308953872154783
+    second: dark_elf_warrior_24
+  - first:
+      213: -266645895706802004
+    second: dark_elf_warrior_25
+  - first:
+      213: 8458175785291383621
+    second: dark_elf_warrior_26
+  - first:
+      213: 3511315761855314430
+    second: dark_elf_warrior_27
+  - first:
+      213: 3730628131531723539
+    second: dark_elf_warrior_28
+  - first:
+      213: -4905762391681110641
+    second: dark_elf_warrior_29
+  - first:
+      213: 231219450529518888
+    second: dark_elf_warrior_30
+  - first:
+      213: -4885716841430668824
+    second: dark_elf_warrior_31
+  - first:
+      213: 5829747703051300952
+    second: dark_elf_warrior_32
+  - first:
+      213: -1695673432185251022
+    second: dark_elf_warrior_33
+  - first:
+      213: -9114172872600258836
+    second: dark_elf_warrior_34
+  - first:
+      213: 1560323761430488458
+    second: dark_elf_warrior_35
+  - first:
+      213: -8677198559778497595
+    second: dark_elf_warrior_36
+  - first:
+      213: 7091334873350977710
+    second: dark_elf_warrior_37
+  - first:
+      213: -7254440546222879474
+    second: dark_elf_warrior_38
+  - first:
+      213: -2661763903778709518
+    second: dark_elf_warrior_39
+  - first:
+      213: 4722460747024318125
+    second: dark_elf_warrior_40
+  - first:
+      213: 5921527680896535332
+    second: dark_elf_warrior_41
+  - first:
+      213: 1500585524800765345
+    second: dark_elf_warrior_42
+  - first:
+      213: 5779915424252900039
+    second: dark_elf_warrior_43
+  - first:
+      213: 3450800471011215954
+    second: dark_elf_warrior_44
+  - first:
+      213: -7854686591938021155
+    second: dark_elf_warrior_45
+  - first:
+      213: -8737113991163111846
+    second: dark_elf_warrior_46
+  - first:
+      213: -1403676740298069553
+    second: dark_elf_warrior_47
+  - first:
+      213: 828953761771809962
+    second: dark_elf_warrior_48
+  - first:
+      213: -1826312995003464550
+    second: dark_elf_warrior_49
+  - first:
+      213: -2606164731087185106
+    second: dark_elf_warrior_50
+  - first:
+      213: 8557902624373116843
+    second: dark_elf_warrior_51
+  - first:
+      213: 5359400849724980991
+    second: dark_elf_warrior_52
+  - first:
+      213: -6296211151795456043
+    second: dark_elf_warrior_53
+  - first:
+      213: -6418339992085986168
+    second: dark_elf_warrior_54
+  - first:
+      213: 8925078127114651204
+    second: dark_elf_warrior_55
+  - first:
+      213: 5525514632097883827
+    second: dark_elf_warrior_56
+  - first:
+      213: 7635784946553175177
+    second: dark_elf_warrior_57
+  - first:
+      213: -7019996973262043856
+    second: dark_elf_warrior_58
+  - first:
+      213: 6017533073455309655
+    second: dark_elf_warrior_59
+  - first:
+      213: 5129959841748964085
+    second: dark_elf_warrior_60
+  - first:
+      213: 957506854734740458
+    second: dark_elf_warrior_61
+  - first:
+      213: 4181260353274372583
+    second: dark_elf_warrior_62
+  - first:
+      213: -2506066540433073229
+    second: dark_elf_warrior_63
+  - first:
+      213: -2628223131361559638
+    second: dark_elf_warrior_64
+  - first:
+      213: 5197318940510640087
+    second: dark_elf_warrior_65
+  - first:
+      213: 8886583875227631891
+    second: dark_elf_warrior_66
+  - first:
+      213: -2685748198281776864
+    second: dark_elf_warrior_67
+  - first:
+      213: 943580292251397132
+    second: dark_elf_warrior_68
+  - first:
+      213: -5364378094451971880
+    second: dark_elf_warrior_69
+  - first:
+      213: 7939236757111203855
+    second: dark_elf_warrior_70
+  - first:
+      213: 7638881081291549478
+    second: dark_elf_warrior_71
+  - first:
+      213: -2909436977061848367
+    second: dark_elf_warrior_72
+  - first:
+      213: 4958239830807681690
+    second: dark_elf_warrior_73
+  - first:
+      213: -4495297273294126387
+    second: dark_elf_warrior_74
+  - first:
+      213: -3271683397471772970
+    second: dark_elf_warrior_75
+  - first:
+      213: -4193341937076447060
+    second: dark_elf_warrior_76
+  - first:
+      213: -6103508820151410369
+    second: dark_elf_warrior_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_elf_warrior_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 840
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0703e0f50255a50800000000000000
+      internalID: 6509144429065957594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 839
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8ae1afee8441c0800000000000000
+      internalID: -4520330966108304789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 808
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b10f29f8697dd0800000000000000
+      internalID: -2487841899700701360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 807
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1bb453fe34c5c0800000000000000
+      internalID: -4196159737982935920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 776
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a99cd4ada3c320800000000000000
+      internalID: 2577094335373353643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 775
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33443f5b336e7ef50800000000000000
+      internalID: 6910745262993654835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 744
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66210fbe84b16f020800000000000000
+      internalID: 2375115853494489702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 743
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117dc88b15af1920800000000000000
+      internalID: 2963268617510940947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 743
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e050cbc4cc15a0800000000000000
+      internalID: -6549143378719611287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 742
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e7bcf568830860800000000000000
+      internalID: 7494984176487621058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 711
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef335cdf9ec9cff0800000000000000
+      internalID: -15253937727520789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 712
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bbc65462fc92600800000000000000
+      internalID: 444113801553165186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 711
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0567e4c4bc5289b0800000000000000
+      internalID: -5079395498253130485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 712
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8417740861688120800000000000000
+      internalID: 2416288299463677071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2d1fca6a537e80800000000000000
+      internalID: -8182096683214229570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 679
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8f798663aa0a30800000000000000
+      internalID: 4182334864755756521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 680
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca56241684cb290800000000000000
+      internalID: -7873338465987482596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 680
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992513e121baa6b0800000000000000
+      internalID: -5284216453664003691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 648
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b176fc06339c50800000000000000
+      internalID: 6670734902367992303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 648
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0679c7b3d0574ad0800000000000000
+      internalID: -2718114979843049969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 616
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ebf4d94b2c5a30800000000000000
+      internalID: 4205283748163084831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 616
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb7cae7ac3524d0800000000000000
+      internalID: -3160052871634371093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 584
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b199ebcf521f650800000000000000
+      internalID: 6264830324108761964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 584
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfaf5c1865213050800000000000000
+      internalID: 5778440925975916483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 552
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f39fc9de97cc1f0800000000000000
+      internalID: -1023308953872154783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 549
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8849978feac4cf0800000000000000
+      internalID: -266645895706802004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 548
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438a1a301a716570800000000000000
+      internalID: 8458175785291383621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bd97e413bab030800000000000000
+      internalID: 3511315761855314430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 520
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3131709158ad5c330800000000000000
+      internalID: 3730628131531723539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 520
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d606bb81b3bebb0800000000000000
+      internalID: -4905762391681110641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 488
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82519fd7dd4753300800000000000000
+      internalID: 231219450529518888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 488
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a1691b62723cb0800000000000000
+      internalID: -4885716841430668824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 488
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b58a06ac67e050800000000000000
+      internalID: 5829747703051300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 456
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd78b5ff1c778e0800000000000000
+      internalID: -1695673432185251022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 453
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f823bf04f38180800000000000000
+      internalID: -9114172872600258836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 455
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a856aaea13267a510800000000000000
+      internalID: 1560323761430488458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb1fd632e5649780800000000000000
+      internalID: -8677198559778497595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8bc6dee7b796260800000000000000
+      internalID: 7091334873350977710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc13642cc035b90800000000000000
+      internalID: -7254440546222879474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 424
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff105705d38f0bd0800000000000000
+      internalID: -2661763903778709518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 424
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3c1c570d898140800000000000000
+      internalID: 4722460747024318125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0b7b5d0e7d2250800000000000000
+      internalID: 5921527680896535332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb7d8959623d410800000000000000
+      internalID: 1500585524800765345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2356e7472663050800000000000000
+      internalID: 5779915424252900039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25acf59ceb4b3ef20800000000000000
+      internalID: 3450800471011215954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b289192c8ef290800000000000000
+      internalID: -7854686591938021155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 360
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5690a2cd198fb680800000000000000
+      internalID: -8737113991163111846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 328
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc92e031173258ce0800000000000000
+      internalID: -1403676740298069553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 328
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aace1a9ed09018b00800000000000000
+      internalID: 828953761771809962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94832cd102a7a6e0800000000000000
+      internalID: -1826312995003464550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b95613cfa05dbd0800000000000000
+      internalID: -2606164731087185106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 261
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf842c5817c3c670800000000000000
+      internalID: 8557902624373116843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 262
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb8c07daa606a40800000000000000
+      internalID: 5359400849724980991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f062f05d5f98a0800000000000000
+      internalID: -6296211151795456043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884080478c97de6a0800000000000000
+      internalID: -6418339992085986168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446074ff44f3cdb70800000000000000
+      internalID: 8925078127114651204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ea6f48429eac40800000000000000
+      internalID: 5525514632097883827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 229
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb398e3f1c7f960800000000000000
+      internalID: 7635784946553175177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035066442f5f39e90800000000000000
+      internalID: -7019996973262043856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e773b272928350800000000000000
+      internalID: 6017533073455309655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2577fdb47413740800000000000000
+      internalID: 5129959841748964085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb377a496fb94d00800000000000000
+      internalID: 957506854734740458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e7565322d60a30800000000000000
+      internalID: 4181260353274372583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9ef952c9a83dd0800000000000000
+      internalID: -2506066540433073229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 168
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabbab8acfca68bd0800000000000000
+      internalID: -2628223131361559638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 136
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7db813a06902840800000000000000
+      internalID: 5197318940510640087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 136
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31148ad83fc735b70800000000000000
+      internalID: 8886583875227631891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f44d4e3e4abad0800000000000000
+      internalID: -2685748198281776864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c24b8c645481d00800000000000000
+      internalID: 943580292251397132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8ad477b86ed85b0800000000000000
+      internalID: -5364378094451971880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08665744c5dd2e60800000000000000
+      internalID: 7939236757111203855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba5d3fed1c20a60800000000000000
+      internalID: 7638881081291549478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da97d5fb7a9f97d0800000000000000
+      internalID: -2909436977061848367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1c723bd43fc440800000000000000
+      internalID: 4958239830807681690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2858172fe7d91c0800000000000000
+      internalID: -4495297273294126387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded62cb845a892d0800000000000000
+      internalID: -3271683397471772970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85fcab9b14ec5c0800000000000000
+      internalID: -4193341937076447060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_elf_warrior_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31696bd01bfb4ba0800000000000000
+      internalID: -6103508820151410369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dark_elf_warrior_0: 6509144429065957594
+      dark_elf_warrior_1: -4520330966108304789
+      dark_elf_warrior_10: -15253937727520789
+      dark_elf_warrior_11: 444113801553165186
+      dark_elf_warrior_12: -5079395498253130485
+      dark_elf_warrior_13: 2416288299463677071
+      dark_elf_warrior_14: -8182096683214229570
+      dark_elf_warrior_15: 4182334864755756521
+      dark_elf_warrior_16: -7873338465987482596
+      dark_elf_warrior_17: -5284216453664003691
+      dark_elf_warrior_18: 6670734902367992303
+      dark_elf_warrior_19: -2718114979843049969
+      dark_elf_warrior_2: -2487841899700701360
+      dark_elf_warrior_20: 4205283748163084831
+      dark_elf_warrior_21: -3160052871634371093
+      dark_elf_warrior_22: 6264830324108761964
+      dark_elf_warrior_23: 5778440925975916483
+      dark_elf_warrior_24: -1023308953872154783
+      dark_elf_warrior_25: -266645895706802004
+      dark_elf_warrior_26: 8458175785291383621
+      dark_elf_warrior_27: 3511315761855314430
+      dark_elf_warrior_28: 3730628131531723539
+      dark_elf_warrior_29: -4905762391681110641
+      dark_elf_warrior_3: -4196159737982935920
+      dark_elf_warrior_30: 231219450529518888
+      dark_elf_warrior_31: -4885716841430668824
+      dark_elf_warrior_32: 5829747703051300952
+      dark_elf_warrior_33: -1695673432185251022
+      dark_elf_warrior_34: -9114172872600258836
+      dark_elf_warrior_35: 1560323761430488458
+      dark_elf_warrior_36: -8677198559778497595
+      dark_elf_warrior_37: 7091334873350977710
+      dark_elf_warrior_38: -7254440546222879474
+      dark_elf_warrior_39: -2661763903778709518
+      dark_elf_warrior_4: 2577094335373353643
+      dark_elf_warrior_40: 4722460747024318125
+      dark_elf_warrior_41: 5921527680896535332
+      dark_elf_warrior_42: 1500585524800765345
+      dark_elf_warrior_43: 5779915424252900039
+      dark_elf_warrior_44: 3450800471011215954
+      dark_elf_warrior_45: -7854686591938021155
+      dark_elf_warrior_46: -8737113991163111846
+      dark_elf_warrior_47: -1403676740298069553
+      dark_elf_warrior_48: 828953761771809962
+      dark_elf_warrior_49: -1826312995003464550
+      dark_elf_warrior_5: 6910745262993654835
+      dark_elf_warrior_50: -2606164731087185106
+      dark_elf_warrior_51: 8557902624373116843
+      dark_elf_warrior_52: 5359400849724980991
+      dark_elf_warrior_53: -6296211151795456043
+      dark_elf_warrior_54: -6418339992085986168
+      dark_elf_warrior_55: 8925078127114651204
+      dark_elf_warrior_56: 5525514632097883827
+      dark_elf_warrior_57: 7635784946553175177
+      dark_elf_warrior_58: -7019996973262043856
+      dark_elf_warrior_59: 6017533073455309655
+      dark_elf_warrior_6: 2375115853494489702
+      dark_elf_warrior_60: 5129959841748964085
+      dark_elf_warrior_61: 957506854734740458
+      dark_elf_warrior_62: 4181260353274372583
+      dark_elf_warrior_63: -2506066540433073229
+      dark_elf_warrior_64: -2628223131361559638
+      dark_elf_warrior_65: 5197318940510640087
+      dark_elf_warrior_66: 8886583875227631891
+      dark_elf_warrior_67: -2685748198281776864
+      dark_elf_warrior_68: 943580292251397132
+      dark_elf_warrior_69: -5364378094451971880
+      dark_elf_warrior_7: 2963268617510940947
+      dark_elf_warrior_70: 7939236757111203855
+      dark_elf_warrior_71: 7638881081291549478
+      dark_elf_warrior_72: -2909436977061848367
+      dark_elf_warrior_73: 4958239830807681690
+      dark_elf_warrior_74: -4495297273294126387
+      dark_elf_warrior_75: -3271683397471772970
+      dark_elf_warrior_76: -4193341937076447060
+      dark_elf_warrior_77: -6103508820151410369
+      dark_elf_warrior_8: -6549143378719611287
+      dark_elf_warrior_9: 7494984176487621058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
