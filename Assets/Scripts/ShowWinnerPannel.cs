@@ -1,13 +1,12 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.SceneManagement;
 
-public class ReloadScene : MonoBehaviour
+public class ShowWinnerPannel : MonoBehaviour
 {
     public GameObject pannel;
     public Timer timerScript;
+    public TextMeshProUGUI timerText;
 
     private void Start()
     {
