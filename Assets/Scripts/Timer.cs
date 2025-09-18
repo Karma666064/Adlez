@@ -22,12 +22,15 @@ public class Timer : MonoBehaviour
 
     void Update()
     {
-        elapsedTime += Time.deltaTime;
+        if (GameData.Instance.isTimerStarted)
+        {
+            elapsedTime += Time.deltaTime;
 
-        int minutes = Mathf.FloorToInt(elapsedTime / 60f);
-        int seconds = Mathf.FloorToInt(elapsedTime % 60f);
-        int milliseconds = Mathf.FloorToInt((elapsedTime * 1000f) % 1000);
+            int minutes = Mathf.FloorToInt(elapsedTime / 60f);
+            int seconds = Mathf.FloorToInt(elapsedTime % 60f);
+            int milliseconds = Mathf.FloorToInt((elapsedTime * 1000f) % 1000);
 
-        timerText.text = $"{minutes:00}:{seconds:00}:{milliseconds:000}";
+            timerText.text = $"{minutes:00}:{seconds:00}:{milliseconds:000}";
+        }
     }
 }

@@ -7,7 +7,8 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private Rigidbody2D rb;
     private PlayerActions inputActions;
-    public GameData gameData;
+
+    
 
     private Vector2 moveInput;
 
@@ -27,11 +28,6 @@ public class PlayerController : MonoBehaviour
         inputActions.Enable();
 
         LinkActions();
-    }
-
-    private void Start()
-    {
-        gameData = GameData.Instance;
     }
 
     void LinkActions()
@@ -67,19 +63,6 @@ public class PlayerController : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>();
 
-        if (!gameData.isGameStarted)
-        {
-            gameData.isGameStarted = true;
 
-            StartCoroutine(CloseDoor());
-        } 
-    }
-
-    public IEnumerator CloseDoor()
-    {
-        yield return new WaitForSeconds(0.5f);
-        gameData.door.GetComponentInChildren<SpriteRenderer>().sprite = gameData.spriteCloseDoor;
-        gameData.door.GetComponent<BoxCollider2D>().enabled = true;
-        yield break;
     }
 }
