@@ -11,6 +11,9 @@ public class ShowWinnerPannel : MonoBehaviour
     private void Start()
     {
         timerScript = Timer.Instance;
+        Time.timeScale = 1f;
+
+        pannel.SetActive(false);
     }
 
     public void SceneReloader(GameObject obj)

@@ -2339,6 +2339,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isGameStarted: 0
   isTimerStarted: 0
+  elapsedTime: 0
 --- !u!114 &1055481708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2351,6 +2352,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa7de9a301f92114584a0a50a9be3840, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pannel: {fileID: 709391866}
+  timmer: {fileID: 1994665999}
 --- !u!114 &1055481709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11660,7 +11663,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -77.343285, y: -29.626127}
+  m_AnchoredPosition: {x: -77.34326, y: -29.626099}
   m_SizeDelta: {x: 118.6865, y: 25.2524}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2028003642

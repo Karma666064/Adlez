@@ -6,6 +6,7 @@ public class GameData : MonoBehaviour
 
     public bool isGameStarted;
     public bool isTimerStarted;
+    public float elapsedTime;
 
     private void Awake()
     {
